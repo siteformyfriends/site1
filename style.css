@@ -1,7 +1,5 @@
-.page {
-	background-image: all;
-	background-repeat: no-repeat;
-	background-color:red;
+img {
+	width: 100%;
 }
 h1 {
 	font-family: Arial;
