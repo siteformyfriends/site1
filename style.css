@@ -1,8 +1,7 @@
 body {
 	background-color: #000000;
+	background-image: url(bg.jpg);
 }
-img {
-	background-size: contain;
 }
 h1 {
 	color: #ff0000;
