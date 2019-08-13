@@ -1,5 +1,5 @@
 .page {
-	background-image: all;
+	background-image: url("bg.jpg");
 	background-repeat: no-repeat;
 	background-color:red;
 }
