@@ -2,10 +2,11 @@ body {
 	background-color: #000000;
 	background-image: url(bg.jpg);
 	background-repeat: no-repeat;
+	background-size: auto;
 }
-}
-h1 {
-	color: #ff0000;
+
+.text {
+	color: #ffffff;
 	font-family: Arial;
 	text-align: center;
 }
